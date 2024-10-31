@@ -1,0 +1,85 @@
+
+/* css for support page*/
+.adl_support_wrapper .wrap.wrap_left {
+    width: 40%;
+}
+.adl_support_wrapper .wrap {
+    float: left;
+    margin-right: 20px;
+}
+.wrap.wrap_left{
+    width: 45%;
+}
+.wrap.wrap_right{
+    width: 45%;
+}
+.adl_support_wrapper .wrap.wrap_right {
+    width: 40%;
+}
+.adl_support_wrapper .wrap.wrap_right .postbox {
+    background: #f0f9dc;
+    padding: 0 0 10px;
+}
+ul.adl_pro_features {
+    padding: 0 23px;
+}
+.adl_pro_features li {
+    font-size: 13px;
+    line-height: 22px;
+    color: #333;
+    position: relative;
+    margin-bottom: 6px;
+}
+.adl_pro_features li:before {
+    content: "\f522";
+    font-family: 'dashicons', 'sans-serif';
+    margin-right: 4px;
+    display: inline-block;
+    vertical-align: -1.9px;
+}
+.adl-upgrade-content-wrapper-right h3 {
+    font-size: 15px;
+    font-weight: normal;
+    color: #ffffff;
+    background: #0085ba;
+    text-align: center;
+    padding: 12px 0;
+    margin: 0;
+}
+.adl_support_wrapper .wrap.wrap_right .text-center {
+    text-align: center;
+}
+.form-table .wip_dflex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.form-table .wip_promotion{
+    margin-bottom: 30px;
+    padding: 30px 20px 40px;
+    background: #fff;
+    box-shadow: 0 1px 1px rgba(0,0,0,.08);
+}
+.form-table .wip_promotion .promo_img{
+    text-align: center;
+    flex: 1;
+}
+
+.form-table .wip_promotion .promo_img img{
+    margin: 10px 0;
+}
+.form-table .wip_promotion .promo_img p{
+    font-size: 24px !important;
+}
+.form-table .wip_dflex .wrap_right .postbox{
+    background: #F0F9DC;
+}
+
+.wip_custom{
+    padding: 22px;
+}
+
+
+.form-table td p.text-center { 
+    margin-left: 23px;
+    margin-bottom: 10px; 
+}
